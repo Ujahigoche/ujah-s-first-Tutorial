@@ -1,0 +1,26 @@
+img.imga {
+    width: 500px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+  img.sig {
+    width: 100px;
+    border-radius: 50px;
+  }
+  p.gsp {
+    font-style: italic;
+    font-weight: bold;
+  }
+  img.sim {
+    width: 200px;
+    border-radius: 100px;
+  }
+  img.imgb {
+    width: 250px;
+    border-radius: 25px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 20px;
+  }
